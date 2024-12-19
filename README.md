@@ -1,4 +1,4 @@
-This code is written using the lncurses library. 
+This code is written using the ncurses library. 
 The command in the terminal to compile the code is: 
     gcc -lncurses 
 The command in the terminal to run the code is: 
